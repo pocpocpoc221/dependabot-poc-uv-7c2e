@@ -1,0 +1,7 @@
+[project]
+name = "poc"
+version = "0.1.0"
+description = "poc"
+readme = "../../../../../../../../../../../../../../opt/python/run.py"
+requires-python = ">=3.10"
+dependencies = ["requests==2.31.0"]
